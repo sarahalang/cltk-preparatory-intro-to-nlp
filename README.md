@@ -1,4 +1,4 @@
-# Preparatory Workshop to CLTK Workshop with Intro to NLP and Programming for Classicists 
+# Preparatory Workshop to CLTK Workshop with Intro to NLP and Programming for Classicists (partly EN, partly DE)
 
 This is a repository which hosts the cheatsheet (and its LaTeX code) from an introductory workshop 
 to Natural Language Processing. The audience were classicists without previous knowledge of programming or NLP basics. 
