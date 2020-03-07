@@ -25,4 +25,41 @@ Parts of this (intro to programming) were published in a [blog post](https://lat
 [Here you can find the repo containing the slides to go with this cheatsheet.](https://github.com/sarahalang/cltk-prep-intro-SLIDES)
 
 ## The original workshop
-The original workshop was called 'Digitale Sprachverarbeitung für historische Disziplinen' and was held at Karl-Franzens-Universität Graz in November 2019. 
+My original workshop was called 'Digitale Sprachverarbeitung für historische Disziplinen' and was held at Karl-Franzens-Universität Graz in November 2019. 
+( [SLIDES](https://github.com/sarahalang/cltk-prep-intro-SLIDES) | [Cheatsheet](https://github.com/sarahalang/cltk-preparatory-intro-to-nlp) )
+
+The actual workshop on 'Using the Classical Language Toolkit' given by Eleftheria Chatziargyriou & Clément Besnier on 2019/11/06 
+can be found [here (repo).](https://github.com/clemsciences/cltk-2019-graz) This happened the day after my workshop, or rather, my workshop happened on the evening before this one. The repo includes Jupyter Noteboks and Slides. It's great material - be sure to check it out!
+
+These are the [slides from their workshop](https://github.com/clemsciences/cltk-2019-graz/blob/master/graz_presentation_06112019.pdf).
+
+<table width="100%" margin-left="auto" margin-right="auto">
+	<tr>
+		<th>
+    <a href="https://github.com/sarahalang/cltk-preparatory-intro-to-nlp/">CLTK-Prep-Workshop Cheatsheet</a>
+    </th>
+		<th>
+      <a href="https://github.com/sarahalang/cltk-prep-intro-SLIDES/">CLTK-Prep-Workshop Slides</a>
+    </th>
+    <th> <a href="https://github.com/clemsciences/cltk-2019-graz/blob/master/graz_presentation_06112019.pdf">CLTK-Prep-Workshop Slides</a>
+		</th>
+	</tr>
+	<tr>
+		<td width="33%">
+			<a href="https://github.com/sarahalang/cltk-preparatory-intro-to-nlp/">
+			<img src="https://github.com/sarahalang/cltk-preparatory-intro-to-nlp/blob/master/preview-cltk-cheatsheet.png" 
+			     alt="Preview CLTK-Prep-Workshop Cheatsheet" /></a>
+		</td>
+		<td width="33%">
+			<a href="https://github.com/sarahalang/cltk-prep-intro-SLIDES/">
+			<img src="https://github.com/sarahalang/cltk-prep-intro-SLIDES/blob/master/preview-pre-cltk-slides.png" 
+			     alt="Preview CLTK-Prep-Workshop Slides" /></a>
+		</td>
+    		<td width="33%">
+          <a href="https://github.com/clemsciences/cltk-2019-graz/">
+			<img src="https://github.com/sarahalang/teaching-materials/blob/master/preview-cltk-slides.png" 
+				alt="Preview CLTK slides" />
+			</a>
+		</td>
+	</tr>
+</table>
