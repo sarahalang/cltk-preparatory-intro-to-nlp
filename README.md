@@ -63,3 +63,5 @@ These are the [slides from their workshop](https://github.com/clemsciences/cltk-
 		</td>
 	</tr>
 </table>
+
+Probably somewhat annoyingly, the materials are part-German part-English, so probably better suited for German users. But big parts might still be interesting for those not speaking German. I'll translate the whole thing if it's requested.
